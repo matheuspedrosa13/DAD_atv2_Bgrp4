@@ -1,0 +1,50 @@
+body{
+    background-color: #11c76f;
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+
+main{
+    border: 4px solid blue;
+    background-color: #eff0e8;
+    width: 400px;
+    border-radius: 40px;
+    margin: auto;
+    padding: 20px;
+}
+ul{
+    padding: 0px;
+}
+li{
+    list-style: none;
+    text-align: center;
+    background-color: blue;
+    width: 300px;
+    border-radius: 10px;
+    margin: 30px auto;
+    padding: 10px 0;
+    box-shadow: 5px 5px 5px #2a8250;
+    color: #eff0e8;
+}
+button{
+    background-color: #11c76f;
+    display: block;
+    border: #eff0e8 solid 3px;
+    border-radius: 20px;
+    padding: 15px;
+    font-size: 16px;
+    color: #35362e;
+    cursor: pointer;
+    margin: 20px auto;
+    font-weight: bolder;
+}
+a{
+   color: #eff0e8;
+   text-decoration: none;
+
+}
+#solNuvem{
+    text-align: center;
+}
